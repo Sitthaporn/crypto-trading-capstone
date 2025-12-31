@@ -3,7 +3,7 @@ git config --global user.name "name"
 git config --global user.email "email"
 
 //MAIN
-git clone https://github.com/Sitthaporn/Capstone-CryptoTrade-Prediction.git
+git clone https://github.com/Sitthaporn/crypto-trading-capstone.git
 git checkout main
 git pull origin main
 git status

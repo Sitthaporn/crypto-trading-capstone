@@ -2,6 +2,7 @@
 py -m venv venv
 venv\Scripts\activate
 pip install torch torchvision torchaudio
+pip install yfinance pandas
 
 //ออก
 deactivate
