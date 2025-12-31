@@ -1,3 +1,7 @@
 //ติดตั้ง pytorc
 py -m venv venv
 venv\Scripts\activate
+pip install torch torchvision torchaudio
+
+//ออก
+deactivate
