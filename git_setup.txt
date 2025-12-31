@@ -1,0 +1,18 @@
+//LOGIN
+git config --global user.name "name"
+git config --global user.email "email"
+
+//MAIN
+git clone https://github.com/Sitthaporn/Capstone-CryptoTrade-Prediction.git
+git checkout main
+git pull origin main
+git status
+git add .
+git commit -m "update code"
+git push origin main
+
+//ADD/FEATURE
+git checkout -b feature/ใส่ชื่ออะไรก็ได้
+git add .
+git commit -m "update code"
+git push -u origin feature/ใส่ชื่ออะไรก็ได้
