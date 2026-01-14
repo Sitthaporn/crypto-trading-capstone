@@ -11,7 +11,7 @@ COPY requirements.txt .
 RUN pip install -r requirements.txt
 
 # Copy rest of the application files (including models)
-COPY index.html
+COPY app.py .
 
 # Expose the port the app will run on
 EXPOSE 8000

@@ -8,7 +8,6 @@ environment/
 
 # data files
 btc_price.csv
-btc_4h_price.csv
 
 # Python cache
 __pycache__/
